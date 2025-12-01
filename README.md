@@ -7,5 +7,5 @@
 
 ```bash
 # Restore from backup
-  gunzip -c tpch_1g_dump.sql.gz | psql tpch
+gunzip -c tpch_1g_dump.sql.gz | psql tpch
 ```
